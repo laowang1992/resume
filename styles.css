@@ -429,6 +429,18 @@ h1, h2{
   line-height: 1.75;
 }
 
+#information li > i{
+  width: 0.9rem; /* for text alignment */
+  text-align: right;
+}
+
+#information ul{
+  margin-top: 0.05in;
+  padding-left: 0;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
 #contact li > i{
   width: 0.9rem; /* for text alignment */
   text-align: right;
